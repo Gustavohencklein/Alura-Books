@@ -1,0 +1,9 @@
+hr {
+    margin: 0;
+}
+
+
+.rodapé {
+    bachground-color: var(--branco);
+    padding: 1em;
+}
